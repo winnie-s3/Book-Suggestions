@@ -1,0 +1,10 @@
+D:\DS\3BIM\book-suggestions\book-suggestions\obj\Debug\book-suggestions.csproj.AssemblyReference.cache
+D:\DS\3BIM\book-suggestions\book-suggestions\obj\Debug\book_suggestions.Form1.resources
+D:\DS\3BIM\book-suggestions\book-suggestions\obj\Debug\book_suggestions.Properties.Resources.resources
+D:\DS\3BIM\book-suggestions\book-suggestions\obj\Debug\book-suggestions.csproj.GenerateResource.cache
+D:\DS\3BIM\book-suggestions\book-suggestions\obj\Debug\book-suggestions.csproj.CoreCompileInputs.cache
+D:\DS\3BIM\book-suggestions\book-suggestions\bin\Debug\book-suggestions.exe.config
+D:\DS\3BIM\book-suggestions\book-suggestions\bin\Debug\book-suggestions.exe
+D:\DS\3BIM\book-suggestions\book-suggestions\bin\Debug\book-suggestions.pdb
+D:\DS\3BIM\book-suggestions\book-suggestions\obj\Debug\book-suggestions.exe
+D:\DS\3BIM\book-suggestions\book-suggestions\obj\Debug\book-suggestions.pdb
